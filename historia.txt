@@ -4,3 +4,5 @@ Tiene 25 años de edad y vive en Santiago de Chile.
 
 Es Ingeniero Civil en Bioingeniería de profesion,
 actualmente estudia programacion en Platzi.
+
+Actualmente esta aprendiendo sobre el curso de Git y Github.
